@@ -1,0 +1,12 @@
+path: '/content/drive/MyDrive/Faculdade/Minicurso_YOLO/Treinamento_Modelo_Teste' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Número de classes
+nc: 2
+
+# Nome das classes
+names:
+  0: "maca"
+  1: "laranja"
+
